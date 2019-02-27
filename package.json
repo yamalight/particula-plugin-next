@@ -1,0 +1,22 @@
+{
+  "name": "particula-plugin-next",
+  "version": "0.1.0",
+  "description": "Particula plugin that adds Next.js integration",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js"
+  },
+  "keywords": [
+    "particula",
+    "particula-plugin",
+    "plugin",
+    "next.js"
+  ],
+  "author": "Tim Ermilov <yamalight@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
